@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/PersonalFile/Documents/codes/C/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe -g -std=gnu17 -o CMakeFiles\\C.dir\\main.c.obj -c D:\\PersonalFile\\Documents\\codes\\C\\main.c",
+  "file": "D:/PersonalFile/Documents/codes/C/main.c",
+  "output": "D:/PersonalFile/Documents/codes/C/build/CMakeFiles/C.dir/main.c.obj"
+}
+]

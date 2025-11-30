@@ -1,0 +1,3 @@
+D:/PersonalFile/Documents/codes/C/build/CMakeFiles/C.dir
+D:/PersonalFile/Documents/codes/C/build/CMakeFiles/edit_cache.dir
+D:/PersonalFile/Documents/codes/C/build/CMakeFiles/rebuild_cache.dir
